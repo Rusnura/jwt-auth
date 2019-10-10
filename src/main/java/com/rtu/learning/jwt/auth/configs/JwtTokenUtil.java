@@ -1,4 +1,4 @@
-package com.rtu.learning.jwt.auth.config;
+package com.rtu.learning.jwt.auth.configs;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
